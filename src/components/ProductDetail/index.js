@@ -18,10 +18,6 @@ import {
   NumberIncrementStepper,
   NumberDecrementStepper,
   Card,
-  Breadcrumb,
-  BreadcrumbItem,
-  BreadcrumbLink,
-  Link,
 } from '@chakra-ui/react';
 import { useEffect, useState } from 'react';
 import { useHistory } from 'react-router-dom';
